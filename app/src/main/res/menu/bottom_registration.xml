@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pregnant"
+        android:icon="@drawable/pregnant_woman_24"
+        android:title="Mother" />
+    <item
+        android:id="@+id/organization"
+        android:icon="@drawable/corporate_fare_24"
+        android:title="Hospital" />
+</menu>

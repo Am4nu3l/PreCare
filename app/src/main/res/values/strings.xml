@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">PRECARE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_account"><b>Don\'t have account? <u>Register</u></b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome"><b>Welcome To,\n<b>PRECARE</b></b></string>
+    <string name="about_description">
+     <![CDATA[<html>
+        <body>
+            <h1>Welcome to the Pregnancy App!</h1>
+            <h2>Version: 1.0</h2>
+
+            <p>We are dedicated to providing expectant mothers with a comprehensive and reliable companion throughout their pregnancy journey. Our app offers a range of features and resources to support you during this special time.</p>
+
+            <h3>Features:</h3>
+
+            <ol>
+                <li>
+                    <strong>Emergency Call with Live Ambulance Location Tracking:</strong> Rest assured knowing that help is just a tap away. Our app includes an emergency call feature that connects you directly to emergency services. Additionally, the live ambulance location tracking ensures that help reaches you promptly, providing peace of mind for you and your baby.
+                </li>
+
+                <li>
+                    <strong>Diet Recommendation:</strong> Proper nutrition is essential for a healthy pregnancy. Our app provides personalized diet recommendations based on your stage of pregnancy. Discover a wide range of nutrient-rich foods and maintain a well-balanced diet to support the growth and development of your baby.
+                </li>
+
+                <li>
+                    <strong>Exercise Recommendation:</strong> Stay active and maintain your fitness with our exercise recommendations tailored for pregnant women. Our app offers safe and effective exercises suitable for each trimester. Engage in gentle workouts and prenatal yoga sessions to promote strength, flexibility, and overall well-being.
+                </li>
+
+                <li>
+                    <strong>Premium Version:</strong> Upgrade to our premium version to unlock additional features. Gain access to a network of professional counselors who specialize in pregnancy-related concerns. Seek guidance, support, and expert advice from the comfort of your home. We understand the importance of emotional well-being during pregnancy and strive to provide you with the best resources available.
+                </li>
+            </ol>
+
+            <p>We hope that our app becomes your trusted companion throughout this incredible journey. For any questions, feedback, or support, please contact our customer service team at <a href=\"mailto:support@pregnancyapp.com\">support@pregnancyapp.com</a>.</p>
+
+            <p>Wishing you a healthy and joyful pregnancy!</p>
+        </body>
+    </html>]]>
+
+</string>
+
+    <string name="premium_plan_description">
+        <![CDATA[
+        <p><b>Introducing our Premium Plan: Unlock Your Ultimate Health Journey</b></p>
+        <p>At [PRECARE], we believe that your well-being is of utmost importance. That\'s why we\'re thrilled to present our Premium Plan, designed to provide you with an enhanced health experience like never before. With double the resources and access to expert guidance, this plan is tailored to take your health and wellness journey to new heights.</p>
+        <p><b>Features included in the Premium Plan:</b></p>
+        <ol>
+            <li>Double the Tips: Get ready to supercharge your progress with an abundant supply of tips, tricks, and insights. Our Premium Plan offers twice the number of tips compared to our Basic Plan, ensuring you have a wealth of knowledge at your fingertips.</li>
+            <li>Extensive Video Library: Dive into a comprehensive video library that covers a wide range of health and wellness topics. From workout routines to cooking demonstrations, our Premium Plan offers twice the number of videos to inspire and guide you on your path to better health.</li>
+            <li>Enhanced Diet Suggestions: We understand that nutrition plays a vital role in achieving your health goals. That\'s why the Premium Plan provides you with double the amount of diet suggestions compared to the Basic Plan. With personalized recommendations and a variety of options, you\'ll have the support you need to make informed dietary choices.</li>
+            <li>Dedicated Health Counselors: With the Premium Plan, you\'ll have direct access to our team of certified health counselors. They are passionate about your well-being and will guide you through any challenges or questions you may have along your health journey. Whether you need advice on exercise routines, meal planning, or general support, our counselors are here to help you succeed.</li>
+        </ol>
+        <p>Invest in your health and upgrade to our Premium Plan today. Experience the advantages of an enriched health journey, tailored specifically to your needs. Embrace the double dose of tips, videos, and diet suggestions, and enjoy the guidance of our dedicated health counselors.</p>
+        <p>Remember, your health is priceless, and with our Premium Plan, you\'re making an investment in your overall well-being. Let us join you on this transformative journey towards a healthier and happier you.</p>
+        <p>To learn more about our Premium Plan pricing and to sign up, visit our website or contact our customer support team. Start your wellness revolution now!</p>
+        ]]>
+    </string>
+</resources>

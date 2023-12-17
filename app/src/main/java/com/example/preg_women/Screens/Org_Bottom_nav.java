@@ -438,6 +438,7 @@ reference.update("status","off").addOnCompleteListener(new OnCompleteListener<Vo
 //                task.run();
 //            }
 //        });
+
 //        cancel.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View view) {
